@@ -19,6 +19,6 @@ The Banana Quality Dataset is a tabular dataset that contains numerical informat
 - Analyzing trends in banana quality over time or across different regions.
 - Identifying factors that contribute most to banana quality and optimizing banana production processes.
 
-# Please note that while this dataset provides valuable insights into banana quality, it is essential to consider other factors such as environmental conditions, storage methods, and transportation when interpreting the results.
+Please note that while this dataset provides valuable insights into banana quality, it is essential to consider other factors such as environmental conditions, storage methods, and transportation when interpreting the results.
 
-# For more information on how to use this dataset and perform analysis, please refer to the documentation provided in the repository.
+For more information on how to use this dataset and perform analysis, please refer to the documentation provided in the repository.
