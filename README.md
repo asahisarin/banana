@@ -1,4 +1,4 @@
-# Banana Quality
+# 🍌 Banana Quality
 
 The Banana Quality Dataset is a tabular dataset that contains numerical information about bananas of various qualities. This dataset includes several features that describe the characteristics of bananas, including size, weight, sweetness, softness, harvest time, ripeness, acidity, and quality rating.
 
